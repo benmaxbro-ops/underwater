@@ -1,0 +1,13 @@
+{
+  "name": "undernite",
+  "version": "0.2.0",
+  "description": "Underwater battle royale for the browser (LAN multiplayer + bots)",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}

@@ -1,0 +1,45 @@
+Herkunft der Sounds in diesem Ordner
+====================================
+
+Alle Aufnahmen stehen unter CC0 (gemeinfrei, keine Namensnennung nötig).
+Sie wurden zugeschnitten, auf Mono und 24 kHz bzw. 22 kHz verkleinert und in der Lautstärke angepasst.
+Der Unterwasser- und Plasma-Klang entsteht erst im Spiel (public/js/audio.js, UNDERWATER und PLASMA).
+
+Schüsse – "The Free Firearm Sound Library" (Ben Jaszczak et al., CC0)
+https://opengameart.org/content/the-free-firearm-sound-library
+  shot_pistol.wav   Walther PPQ, 9 mm         (X_39P.wav)
+  shot_needler.wav  Carl Gustav M45           (G_31P.wav)
+  shot_scatter.wav  Benelli Nova, 12 gauge    (O_21P.wav)
+  shot_harpoon.wav  Tikka T3, .30-06          (W_29P.wav)
+  shot_plasma.wav   Norinco SKS, 7.62x39      (U_14P.wav)
+  shot_torpedo.wav  Mossberg 190, 12 gauge    (N_30P.wav)
+  shot_sonic.wav    Mosin-Nagant, 7.62x54     (M_21P.wav)
+
+Nachladen – "Handgun Reload Sound Effect" (zer0_sol, CC0)
+https://opengameart.org/content/handgun-reload-sound-effect
+  mag_out.wav, mag_in.wav, slide_back.wav, slide_fwd.wav   (aus reload.wav geschnitten)
+
+Gewehr-Magazin – "Gun Reload Sound Effects" (BMacZero, CC0)
+https://opengameart.org/content/gun-reload-sound-effects
+  mag_in_rifle.wav   (clipload1.wav)
+
+Holztür-Schlag – "100 CC0 metal and wood SFX" (rubberduck, CC0)
+https://opengameart.org/content/100-cc0-metal-and-wood-sfx
+  knock_small.wav   (wood_hit_08.ogg)    dumpfer Holzschlag, für kleine Waffen
+  knock_big.wav     (wood_close_01.ogg)  zuschlagende Tür, für große Waffen
+
+Verbrennen ("Ah!") – "Pain sounds" (emopreben, CC0)
+https://opengameart.org/content/pain-sounds-by-emopreben
+  burn_ah1.wav   (Painsounds v2 - Track 1 - Arrrch.ogg)
+  burn_ah2.wav   (Painsounds v2 - Track 4 - Arrggh .ogg)
+
+Treffer in Körper – "Impact" (qubodup, CC0) und "37 hits/punches" (Independent.nu, CC0)
+https://opengameart.org/content/impact
+https://opengameart.org/content/37-hitspunches
+  hit_flesh.wav   (qubodupImpactMeat02.flac)  nasser Einschlag
+  hit_body.wav    (hit21.mp3.flac)            dumpfer Körper-Schlag
+
+Glock 17 (Pistole und Revolver) – "9mm Glock 17" von JKirsch, Lizenz: Creative Commons Attribution 3.0 (CC BY 3.0)
+https://soundbible.com/1382-9mm-Glock-17.html
+  shot_glock.wav   (in Mono umgewandelt und normalisiert)
+  Hinweis: CC BY heißt, der Name des Aufnehmers (JKirsch) muss genannt werden – das steht hier und in der README.
